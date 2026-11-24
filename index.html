@@ -534,8 +534,8 @@ body.has-ask footer{padding-bottom:0}
     <div class="sec-head" style="margin-bottom:0"><p class="label">Contact</p><h2>Let's work <mark>together</mark>.</h2>
       <p class="muted" style="font-size:20px">I'm looking for my next Senior Product Designer role in SaaS. If that sounds like your team, I'd love to hear from you.</p></div>
     <div class="contact-rows">
-      <div class="pillbox"><span id="email"><span class="ph">[your email]</span></span><button class="btn" id="copy" type="button">Copy</button></div>
-      <a class="pillbox plain" href="#contact"><span class="ph">[LinkedIn link]</span></a>
+      <div class="pillbox"><span id="email">jessicaferian@gmail.com</span><button class="btn" id="copy" type="button">Copy</button></div>
+      <a class="pillbox plain" href="https://www.linkedin.com/in/jessferian/" target="_blank" rel="noopener">LinkedIn ↗</a>
       <a class="pillbox plain" href="#contact"><span class="ph">[CV link]</span></a>
     </div>
   </div>
@@ -618,17 +618,18 @@ const studies = [
   id:"ai-photo", color:C.pink, tag:"AI · Web and iOS",
   title:"AI Photo Enhancement",
   sub:"Designing trust, review and recovery around an AI feature, so dealers stay in control of what they publish.",
-  metric:["In build","pilot mid-November 2026"],
+  metric:["In build","pilot mid-January 2027"],
   art:`<div class="ui"><div class="bar"><i></i><i></i><i></i></div>
     <div class="split2"><div class="ph-img" style="background:#E7E2CF">Original</div><div class="ph-img" style="background:var(--sun)">Enhanced</div></div>
     <div class="row"><span class="txt">Condition and features accurate?</span><span class="grow" style="background:transparent"></span><span class="pill" style="background:var(--mint)">Approve</span></div>
     <div class="row"><span class="txt">Version history</span><span class="grow" style="background:transparent"></span><span class="pill" style="background:var(--paper)">Restore</span></div></div>`,
-  meta:[["Role","Product Designer, owned the gallery redesign, review and approval flow, and recovery model"],["Team","Product Manager, engineering (Web and iOS), other teams sharing the gallery, input from Eagers"],["Status","In build, pilot planned for mid-November 2026"]],
+  meta:[["Role","Product Designer, owned the gallery redesign, review and approval flow, and recovery model"],["Team","Product Manager, engineering (Web and iOS), other teams sharing the gallery, input from Eagers"],["Status","In build, pilot planned for mid-January 2027"]],
   stats:[["42 of 320","Eagers dealerships use a professional photographer"],["0","AI-altered photos published without dealer approval"],["Web + iOS","one review and recovery model across both"]],
   sections:[
     {h:"The challenge", b:[
       ["p","Photos sell cars, but dealer photos are inconsistent. Only 42 of Eagers' 320 dealerships use a professional photographer. Cars often sit dirty in holding yards, which slows how quickly they can be listed. Large dealer groups were starting to look at third-party AI tools."],
       ["p","AI enhancement could fix much of this: clean backgrounds, remove dirt and signage, improve lighting. But it brings a real risk. A car photo isn't just marketing. It's a record of the vehicle's condition. If AI hides a scratch or invents a detail, the dealer is responsible for that, not the AI."],
+      ["p","The brief started as \"dealer photos look bad\". Before designing, I split it into three separate problems and moved missing angles into its own workstream (see Missing angles below)."],
       ["p","So the design problem wasn't \"how do we add an Enhance button\". It was how to let dealers use AI with confidence, while making sure a person always checks and approves what gets published."]]},
     {h:"What dealers told us", b:[
       ["p","Early conversations with Eagers shaped the boundaries:"],
@@ -638,6 +639,7 @@ const studies = [
       ["d","Redesign the gallery, not just add to it.","The gallery had an old look and feel and limited functionality. Instead of bolting enhancement onto it, I used the project to redesign it, so enhancement sits where dealers already manage photos. Other teams used the same gallery, so I worked with them to make sure the new version could be reused across their products too."],
       ["d","Nothing AI-altered publishes automatically.","Every enhanced photo needs dealer approval first. The original is always kept and can be restored, even after publishing."],
       ["d","Change the flow from \"preview and approve\" to \"inspect and confirm\".","A quick preview encourages a quick yes. I designed the review so dealers compare before and after with a slider (side-by-side as a fallback), review one photo at a time, and confirm the car's condition and features are accurate before approving. If they stop partway, a counter shows how many they've reviewed and approved."],
+      ["d","Use competitor research to set the review bar.","Looking at how competitors handle uncertain results showed that CarCutter flags low-confidence outputs for a person to check. That shaped our review step: every enhanced photo is inspected by the dealer before it can be published."],
       ["d","Give approvals their own space.","Enhanced photos waiting for review go into an \"awaiting approval\" section. The gallery needs a save to update a listing, and processing is paid for, so an abandoned result shouldn't be lost."],
       ["d","Treat recovery as part of version history.","Once dealers could enhance, re-enhance and restore, these actions risked piling up in the gallery. I separated them into a clear model, so dealers know if they're creating a new version, going back to an earlier one, or returning to the original. Restore lives inside version history rather than as a separate gallery action, which also leaves room for more versions later."],
       ["d","Make damage preservation non-negotiable.","Keeping scratches and dents visible is always on. It isn't a dealer setting, because turning it off would undermine trust in every listing."],
@@ -646,9 +648,13 @@ const studies = [
     {h:"Missing angles", b:[
       ["p","Alongside enhancement, I designed how the gallery flags missing photo angles. Rather than copying a step-by-step guided walkthrough from another product, I recommended highlighting what's missing first, based on dealer skill level, photo volume and the yard environment."]]},
     {h:"The details that prevent mistakes", b:[
-      ["l",["<b>Errors are designed by recovery effort.</b> If the dealer has to leave or replace a file, the message stays inline. If a quick retry fixes it, a toast is enough. Building this framework across Web and iOS also caught a real defect where the two platforms showed different causes for the same failure.","<b>Loading is honest.</b> The AI gives no time estimate, so I used an ambient loading animation instead of a progress bar that would have been fake.","<b>360 spin reuses the same model.</b> Its button stays disabled until at least 4 angles exist.","<b>I tested and rejected</b> a modal review, a persistent upload tray, and notifications for v1."]]]},
+      ["l",["<b>Errors are designed by recovery effort.</b> If the dealer has to leave or replace a file, the message stays inline. If a quick retry fixes it, a toast is enough. Building this framework across Web and iOS also caught a real defect where the two platforms showed different causes for the same failure.","<b>Failures recover in bulk.</b> A failed photo shows as a failed tile, and \"Retry all\" works the same way across photo, enhancement and 360 failures.","<b>Loading is honest.</b> The AI gives no time estimate, so I used an ambient loading animation instead of a progress bar that would have been fake.","<b>360 spin reuses the same model.</b> Its button stays disabled until at least 4 angles exist.","<b>I tested and rejected</b> a modal review, a persistent upload tray, and notifications for v1."]]]},
+    {h:"How I used AI", b:[
+      ["p","I used Claude throughout this project, and checked everything it produced against our platform, our dealers and engineering."],
+      ["l",["<b>Challenging the brief.</b> I asked Claude to push back on my framing before designing, which helped turn \"dealer photos look bad\" into three clear problems.","<b>Competitor research.</b> Using live sources, it showed how competitors handle uncertain AI results, including CarCutter's low-confidence flags.","<b>Correcting a wrong assumption.</b> In an early review flow, Claude assumed damage was marked as a region on the photo. Our system classifies the whole photo, so I corrected it with a screenshot of the real output. It had also left damaged photos out of enhancement. Engineering tests showed enhancement keeps damage visible, so I made those photos enhanceable and added a \"check the damage is still visible\" step to the review instead."]],
+      ["p","Claude got me to first drafts fast. The real output, the engineering tests and dealer input decided the design."]]},
     {h:"Impact", b:[
-      ["p","The feature is in build, with a pilot planned for mid-November 2026. The design sets up a trust model where AI improves how photos look, while the dealer stays responsible for what's published, with a clear path back to the original at any point."]]},
+      ["p","The feature is in build, with a pilot planned for mid-January 2027. The design sets up a trust model where AI improves how photos look, while the dealer stays responsible for what's published, with a clear path back to the original at any point."]]},
     {h:"Reflection", b:[
       ["p","I used this project to redesign the gallery itself. It had an old look and feel and limited functionality, and other teams relied on it too. I worked with those teams so the new gallery could be reused across their products, not just for enhancement."],
       ["p","The hardest part was designing a lot of new functionality before we knew how the backend would support it. How to handle very large photo volumes, how dealers would be charged, and how to show AI confidence were all still open while I was designing. To keep moving, I worked through assumptions with engineering and designed flexible states that could adapt as those answers came in, rather than waiting for every question to be settled."],
@@ -672,7 +678,7 @@ const studies = [
       ["p","Dealers had three separate pages for managing stock: Inventory List, Promote and LiveMarket. Each had its own design and its own data. To spot a car that wasn't selling, reprice it and promote it, a dealer had to move across all three."],
       ["p","This was slow for dealers and expensive for us. The old system behind these pages was the most expensive one the company ran."]]},
     {h:"Process", b:[
-      ["p","In May 2025, I ran a cross-squad workshop to bring the teams behind each page together. From there, I explored three layout concepts. Two went forward, a familiar \"Default Page\" and an \"Insights View\", and I tested them with 7 dealers."],
+      ["p","In May 2025, I ran a cross-squad workshop to bring the teams behind each page together. From there, I explored three layout concepts. Two went forward, a familiar \"Default Page\" and an \"Insights View\", and I tested them with 15 dealers."],
       ["p","Two findings shaped the direction:"],
       ["l",["Dealers backed a single page over separate ones.","Real-time market insights were unanimously the most valued addition, and the default view felt familiar enough to adopt without retraining."]],
       ["i","The three-page journey vs the single page"]]},
@@ -706,14 +712,14 @@ const studies = [
     <div style="display:flex;flex-direction:column;gap:6px"><div class="row"><span class="txt">Health</span><span class="grow" style="background:transparent"></span><span class="pill" style="background:var(--mint)">Good</span></div><div class="row"><span class="txt">Publishing</span></div><div class="row"><span class="txt">History</span></div></div></div>
     <div class="row"><span class="pill" style="background:var(--sun)">Stage</span><span class="txt">controls Purchase Type</span></div></div>`,
   meta:[["Role","Product Designer: research (card sort and concept test), page layout, editing panel and status model"],["Team","Product Manager, engineering"],["Shipped","Pilot with 6 dealers in February 2026, national rollout March 2026"]],
-  stats:[["29% → 61%","share of satisfied dealers in the two months after rollout"],["8 dealers","card sort across cars, industry, caravans and bikes"],["50+","dealer-system feeds kept working with the new status model"]],
+  stats:[["29% → 61%","share of satisfied dealers in the two months after rollout"],["8 dealers","card sort across cars, trucks, farm machinery, caravans and bikes"],["50+","dealer-system feeds kept working with the new status model"]],
   sections:[
     {h:"The challenge", b:[
       ["p","A vehicle's details, its Promote products and its LiveMarket pricing all lived on separate pages. Dealers couldn't see cause and effect, such as whether a price change or a new photo actually led to more views and leads."],
       ["p","Editing was also scattered. Changing a listing sent dealers off to separate pages and back again."],
       ["p","We were also doing this with a much smaller team. Capacity fell 53% year on year (17 to 8 people), so every decision had to earn its place."]]},
     {h:"Research", b:[
-      ["p","In mid-2025, I ran a card sort and a concept test with 8 dealers across cars, industry, caravans and bikes. The card sort asked dealers what they actually needed on the page:"],
+      ["p","In mid-2025, I ran a card sort and a concept test with 8 dealers across cars, trucks, farm machinery, caravans and bikes. The card sort asked dealers what they actually needed on the page:"],
       ["l",["<b>Title, Health and Manage Publishing:</b> 8 of 8 dealers","<b>LiveMarket pricing:</b> 6 of 8","<b>Promote:</b> 4 of 8","<b>Timeline:</b> 2 of 8"]],
       ["p","This told us what to lead with and what could be smaller or conditional. It also showed that dealers split the page naturally into two kinds of information: what they need to know about a car, and what they need to do with it."],
       ["i","Card sort results"]]},
@@ -848,8 +854,12 @@ document.getElementById("copy").addEventListener("click", async (e) => {
   setTimeout(()=> e.target.textContent = "Copy", 1600);
 });
 
-// ---------- Ask-me chat (demo) ----------
+// ---------- Ask-me chat ----------
+// On your own site the chat talks to your Cloudflare Worker. Paste its address below (it ends in /chat).
+// Leave the placeholder in place to keep the chat hidden. Inside Claude, the chat uses Claude directly.
+const CHAT_ENDPOINT = "https://YOUR-WORKER-ADDRESS/chat";
 (function(){
+  const useWorker = !!CHAT_ENDPOINT && !CHAT_ENDPOINT.includes("YOUR-WORKER");
   const strip = (h) => String(h).replace(/<[^>]+>/g,"").replace(/&gt;/g,">").replace(/&lt;/g,"<").replace(/&amp;/g,"&");
   const clean = (t) => t.replace(/\[[^\]]*\]/g,"").replace(/\s+/g," ").trim();
   function knowledge(){
@@ -888,6 +898,12 @@ ${knowledge()}`;
         input = document.getElementById("askInput"), send = document.getElementById("askSend"),
         chips = document.getElementById("askChips");
   let sample = null, busy = false, ctl = null, turns = [], rules = null;
+  async function askWorker(signal){
+    const r = await fetch(CHAT_ENDPOINT, { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ messages: turns }), signal });
+    let d = {}; try { d = await r.json(); } catch (_) {}
+    if (!r.ok || !d.text) { const e = new Error("chat"); e.code = r.status === 429 ? "rate_limited" : "upstream"; throw e; }
+    return d.text;
+  }
   const arrow = send.innerHTML;
   const stopIcon = '<svg width="16" height="16" viewBox="0 0 24 24"><rect x="5" y="5" width="14" height="14" rx="3" fill="currentColor"/></svg>';
 
@@ -907,7 +923,7 @@ ${knowledge()}`;
   function hideAll(){ wrap.hidden = true; document.body.classList.remove("has-ask"); }
 
   async function ask(q){
-    q = q.trim(); if (!q || busy || !sample) return;
+    q = q.trim(); if (!q || busy || (!sample && !useWorker)) return;
     panel.hidden = false; chips.hidden = true;
     add("me", q); input.value = "";
     turns.push({role:"user", content:q});
@@ -916,14 +932,21 @@ ${knowledge()}`;
     const bot = add("bot", "Thinking…"); const tx = bot.querySelector(".tx"); tx.classList.add("wait");
     busy = true; ctl = new AbortController(); send.innerHTML = stopIcon; send.setAttribute("aria-label","Stop answer");
     try {
-      rules = rules || RULES();
-      const { text } = await sample([{role:"user", content:rules}, ...turns], {
-        cache:false, modelTier:"quick", signal:ctl.signal,
-        onText: ({text}) => { tx.classList.remove("wait"); tx.textContent = text; log.scrollTop = log.scrollHeight; }
-      });
+      let text;
+      if (useWorker) {
+        text = await askWorker(ctl.signal);
+        tx.classList.remove("wait"); tx.textContent = text; log.scrollTop = log.scrollHeight;
+      } else {
+        rules = rules || RULES();
+        ({ text } = await sample([{role:"user", content:rules}, ...turns], {
+          cache:false, modelTier:"quick", signal:ctl.signal,
+          onText: ({text}) => { tx.classList.remove("wait"); tx.textContent = text; log.scrollTop = log.scrollHeight; }
+        }));
+      }
       turns.push({role:"assistant", content:text});
     } catch (e) {
       tx.classList.remove("wait");
+      if (e.name === "AbortError") e.code = "cancelled";
       if (["not_granted","sampling_disabled","not_declared","capability_disabled","capability_removed"].includes(e.code)) { hideAll(); return; }
       if (e.code === "cancelled") { tx.textContent = (e.text || "") + (e.text ? " …" : "Stopped."); }
       else if (e.code === "refused") { tx.textContent = copy.refused; }
@@ -941,7 +964,9 @@ ${knowledge()}`;
   input.addEventListener("focus", () => { if (panel.hidden) chips.hidden = false; });
   input.addEventListener("blur", () => { chips.hidden = true; });
 
-  if (window.claude && claude.use) {
+  if (useWorker) {
+    wrap.hidden = false; document.body.classList.add("has-ask");
+  } else if (window.claude && claude.use) {
     claude.use("sample").then((fn) => {
       if (!fn) return;
       sample = fn; wrap.hidden = false; document.body.classList.add("has-ask");
