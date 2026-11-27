@@ -1,158 +1,254 @@
 JESS FERIAN - PORTFOLIO CONTENT
 
-Senior Product Designer · B2B SaaS Hi, I'm Jess. I make complex B2B tools feel simple. I design inventory, automation and AI features for car dealerships at Carsales, across Web and iOS. See my work More about me Systems thinker AI with care Detail lover Web + iOS How I work Four habits that show up in every project. Simplify the model firstBefore screens, I look for the one rule that makes the system easy to reason about, and remove concepts that overlap. Make system behaviour visibleStates, errors and recovery get the same care as the happy path, so people always know what the system is doing. Keep people in controlAutomation and AI should do the work, but a person approves what matters and can always go back. Design with engineeringI work closely with tech leads from the start, so the design matches how the system really behaves. Designing with AI AI can help. People stay responsible. I'm designing AI photo enhancement for dealers, where a photo is also a record of a car's condition. The work is less about the Enhance button and more about what comes after it. Enhance→Inspect→Compare→Confirm accuracy→Approve Read the case study Work I'm proud ofSelected case studies See all work IFMake is Toyota ANDModel is not Corolla ZR THENHold back from destination StatusActive Automation · B2B SaaS Automation Rules Giving dealers control over where their cars are published, without needing support. +124%dealers using rules OriginalEnhanced Condition and features accurate?Approve Version historyRestore AI · Web and iOS AI Photo Enhancement Designing trust, review and recovery around an AI feature, so dealers stay in control of what they publish. In buildpilot mid-January 2027 2021 Corolla AscentMarket 98% 2019 Ranger XLT62 days 2022 CX-5 MaxxPromote 2020 i30 Active3 watchers Workflow · B2B SaaS Inventory List Bringing three pages into one, so dealers can spot, price and promote stock in one place. +303%leads from one new link, at peak Vehicle HealthGoodPublishingHistory Stagecontrols Purchase Type Research · Information architecture Inventory Details Redesigning the vehicle details page so dealers can see what's happening with a car and act on it in one place. 29% → 61%satisfied dealers, two months after rollout A bit about me I untangle the rules underneath the screens. Since 2022 I've worked at Carsales (CAR Group) on Nexgate, the B2B platform dealerships use to manage inventory, prepare listings, publish to marketplaces and read the market. My work sits where user needs, business rules and technical constraints meet. Lately that means automation and AI: rules that decide where a car is published, photo enhancement dealers can trust, and pages that turn data into a clear next step. More about me ExperienceWhere I've worked Senior Product DesignerCarsales (CAR Group)Apr 2022 – Present
+HOME PAGE
+Hi, I'm Jess · Senior Product Designer I connect customer insights with business opportunities to shape what comes next. I dig into complex problems, turn research into insights, and look for opportunities that fit the business. Then I shape the direction through discovery, prototyping and design that weighs user needs, technical constraints and commercial goals. Right now, that's B2B tools for car dealerships at Carsales. See my work More about me Customer insight Product strategy Strategic design AI with care How I work Five principles behind my work. Understand before solvingI spend time on the problem first: who it affects, what's really causing it, and what we don't know yet. Connect people and businessA good outcome works for customers and for the business. I look for the place where the two line up. Challenge assumptionsI question the brief, the rules and my own first ideas, then test them with customers, data and engineering. Design for the bigger pictureEvery feature sits inside a wider system. I think about how a change affects other teams, platforms and the steps around it. Make complexity understandableI look for the simplest model that still covers real cases, so complex rules, data and AI make sense to the people using them. Designing with AI AI can help. People stay responsible. I'm designing AI photo enhancement for dealers, where a photo is also a record of a car's condition. The work is less about the Enhance button and more about what comes after it. Enhance→Inspect→Compare→Confirm accuracy→Approve Read the case study Work I'm proud ofSelected case studies See all work 2021 Corolla AscentMarket 98% 2019 Ranger XLT62 days 2022 CX-5 MaxxPromote 2020 i30 Active3 watchers Inventory redesign · Part 1 · Discovery Inventory List Dealers moved across three pages to spot, price and promote one car. I brought the three teams together, tested concepts with 15 dealers, and used what we learnt to shape a single page. +303%leads from one new link, at peak Vehicle HealthGoodPublishingHistory Stagecontrols Purchase Type Inventory redesign · Part 2 · Research Inventory Details Dealers couldn't tell whether a change led to more leads, and editing was scattered. A card sort with 8 dealers shaped the page, and a new status model removed confusing combinations without breaking 50+ feeds. 29% → 61%satisfied dealers, two months after rollout IFMake is Toyota ANDModel is not Corolla ZR THENHold back from destination StatusActive Distribution automation · Systems Automation Rules Every publishing exception went through support and engineering, about 4 hours a rule. I mapped how the rules engine really worked and turned it into a model dealers could run themselves. +124%dealers using rules OriginalEnhanced Condition and features accurate?Approve Version historyRestore Emerging tech · Responsible AI AI Photo Enhancement AI could make dealer photos look better, but a car photo is also a record of its condition. I helped set the line on what AI can and can't change, and designed the review and recovery around it. In buildpilot planned for mid-January 2027 A bit about me I start with the problem, not the screen. Since 2022 I've worked at Carsales (CAR Group) on Nexgate, the B2B platform car dealerships use to manage stock, prepare listings, publish to marketplaces and read the market. I'm curious about why people do what they do. A lot of my work starts before the problem is clear, when the answer depends on customers, Product, engineering and other teams seeing the same thing. I like working through that uncertainty together until the direction is clear. Lately that's meant automation and AI: where they can take work off dealers, and where a person still needs to stay in charge. More about me ExperienceWhere I've worked Senior Product DesignerCarsales (CAR Group)Apr 2022 – PresentSenior UX/UI DesignerSpacetalk2022UX/UI DesignerPeople's Choice2019 – 2022UX/UI DesignerMake it Happen2017 – 2019
 
-About me Hi, I'm Jess. I turn complex rules, data and AI into products people can understand, trust and control. that's me! Hello! My storyHow I got here Since April 2022, I've been a Senior Product Designer at Carsales (CAR Group), working on Nexgate, formerly AutoGate. It's the B2B platform dealerships use to manage inventory, prepare and publish listings, and make commercial decisions, across Web and iOS. My scope covers connected workflows: inventory management, market insights, promotions, distribution automation, listing creation and editing, and media management. I translate user needs, business requirements and technical constraints into experiences that are clear and practical. A lot of my recent work is in AI and automation: photo enhancement, guided photo capture, version history and recovery, and how buyer behaviour could give dealers useful insight. In each case, I focus on making the capability understandable and giving people the right visibility and control. I'm now growing into customer experience, service design and product strategy, and how design connects customer needs, team processes and business goals across the whole service. Outside workWhen I'm not designing What I believeThree things I bring to every team. 1Clarity beats more featuresMany hard UX problems come from the rules underneath. I question product rules that add complexity, and look for the simplest model that still covers real cases. 2Details build confidenceInformation hierarchy, interface copy, error handling and recovery decide whether people finish their work feeling sure of it. I give them the same care as the main flow. 3AI needs visibility and controlAutomation and AI should do real work, but people need to see what happened, approve what matters, and be able to undo it. What I can help withWhere I add the most value Complex B2B workflowsConnected tools where one change affects many others, like inventory, publishing and pricing. AI and automationFeatures people can trust, with clear review, approval and recovery built in. Consistent across platformsDefining with Product and Engineering how features behave on both Web and iOS. From research to directionCard sorts, concept tests and co-design with customers, turned into clear product decisions. ExperienceWhere I've worked Senior Product DesignerCarsales (CAR Group)Apr 2022 – Present
+ABOUT PAGE
+About me Hi, I'm Jess. I start with customers, connect what I learn to business goals, and turn complex problems into clear product direction. that's me! Hello! My storyHow I got here Since April 2022, I've been a Senior Product Designer at Carsales (CAR Group), working on Nexgate, formerly AutoGate. It's the B2B platform dealerships use to manage inventory, prepare and publish listings, and make commercial decisions, across Web and iOS. My work covers connected workflows: inventory, market insights, promotions, distribution automation, listing creation and editing, and media. The interesting part is usually underneath the screens: the rules, data and business decisions that shape what people can do. A lot of my recent work is in AI and automation: photo enhancement, guided photo capture, version history and recovery, and how buyer behaviour could give dealers useful insight. In each case, I focus on making the capability understandable and giving people the right visibility and control. I've always been more interested in why a problem exists than in the first solution. That's pulled me towards customer experience, service design and product strategy, and how design connects customer needs, team processes and business goals across the whole service. Before Carsales, I designed at Spacetalk, People's Choice and Make it Happen, and before that worked in graphic design and taught at university. Outside workWhen I'm not designing What I bringThree strengths I bring to a team. 1Customer insightI use research like card sorts, concept tests and co-design with dealers to understand what people actually need before deciding what to build. 2Product strategyI connect what I learn to business goals, like cutting manual work, winning back a customer or moving off a costly system, so design decisions support where the product is going. 3Strategic designI design the system, not just the screen: the rules, states and recovery that make complex tools and AI clear, trustworthy and easy to reverse. What I can help withWhere I add the most value Complex B2B workflowsConnected tools where one change affects many others, like inventory, publishing and pricing. AI and automationFeatures people can trust, with clear review, approval and recovery built in. Consistent across platformsDefining with Product and Engineering how features behave on both Web and iOS. From research to directionCard sorts, concept tests and co-design with customers, turned into clear product decisions. ExperienceWhere I've worked Senior Product DesignerCarsales (CAR Group)Apr 2022 – PresentSenior UX/UI DesignerSpacetalk2022UX/UI DesignerPeople's Choice2019 – 2022UX/UI DesignerMake it Happen2017 – 2019
 
-CASE STUDY: Automation Rules. Giving dealers control over where their cars are published, without needing support.
-Role: Product Designer, owned the rule builder UX
-Team: Product Manager, tech lead, engineering, co-designed with Eagers
-Shipped: V2.0 national release, February 2026
-Key numbers: 102 → 228 (dealers using rules (+124%)); 344 (rules created); 1,300+ hrs (of manual setup removed (about 4 hours per rule))
-The challenge:
-Dealers on Nexgate publish their cars to multiple destinations. But some cars can't appear on some destinations. Manufacturer (OEM) rules can bring penalties if a car shows up in the wrong place.
-The only safe option was to hold cars back entirely. About 20,000 listings were kept out of Nexgate for this reason. When a dealer did need a rule, it went from the dealer to our support team to engineering and back. Each rule took around 4 hours.
-At the same time, Eagers, a group with 320 dealerships, was using a third-party publishing tool that cost them about $36K a year. We had a chance to win that business back, but only if dealers could manage rules themselves.
-Key decisions:
-- Map the logic before designing screens. I worked closely with the tech lead to map how the rules engine actually behaved, then co-designed the builder with Eagers using their real rules. This kept every design decision grounded in real cases rather than made-up examples.
-- Everything publishes by default. Rules hold back the exceptions. We considered an approval-first model, where nothing publishes until a dealer allows it. I pushed for the opposite because it matched how the backend already worked and gave dealers a simple mental model: you only define what shouldn't go out.
-- Test the engine before building the interface. Phase 1 was backend-only. We proved the rules engine worked before investing in a self-serve UI.
-- Make it clear who's in charge. A manual publish always overrides automation, so dealers never feel the system is working against them. OEM rules are managed centrally because of the legal risk.
-- Show the system's state. A rule can stop working if its destination becomes inactive. Rules show a clear state, either Active or Paused due to inactive destination, so dealers aren't left guessing.
-- Solve the hardest case: Make → Model → Badge. Dealers needed rules like "restrict all Corollas except the ZR". I built four React prototypes to test this. I rejected locking the parent make, separate blocks per make, and full nesting, because each one either blocked real cases or became too complex. The final design keeps the cascade only for picking values and adds an "is not" option at each level. That handles the exception without flipping the whole rule.
-- Keep the builder simple for non-technical users. I tested a sentence-builder and a wizard, and chose condition blocks. A fully nested AND/OR builder was left out of v1 because it tested badly with non-technical users.
-The details that prevent mistakes:
-Small decisions mattered because a wrong rule can hide stock or break OEM rules:
-- Validation runs at the right moments: when a field loses focus, when a new condition is added, and on save. It doesn't nag while the dealer is still typing.
-- Load failures have their own error state with Retry. If they fell through to the empty state, a dealer might recreate a rule that already exists.
-- Closing with unsaved changes keeps the work. Only "Discard" clears it.
-- The review screen mixes symbols and words. Symbols for comparisons (>, <), words for AND, OR and "is any of". This reads more clearly and works better with screen readers.
-- Age units use visible chips instead of a hidden tap-to-cycle control.
-Impact:
-- Dealers using rules grew from 102 to 228 (+124%).
-- 344 rules created, removing an estimated 1,300+ hours of manual setup (at about 4 hours per rule).
-- Eagers is expanding rules to more dealerships, and the work is helping win them back from a competitor.
-Quote: Eagers found it "super easy to use compared to the other solutions out there." (Relayed by our account team)
-Reflection:
-The hardest part of this project wasn't the interface. It was the logic underneath it. The backend didn't decide what to publish. It published everything and removed what matched a rule. I worked closely with the tech lead to understand that model before designing anything that would make sense to dealers.
-The more I collaborated with engineering, the clearer the experience became. The backend model turned into the simplest rule for dealers: everything goes out, and you only define what shouldn't.
-I mapped the rule logic and co-designed the builder with Eagers using their real rules, which kept the design grounded in real cases. What I'd do differently is test with a wider range of dealers. Eagers is a large group, and smaller dealers may set up rules in different ways.
+CONTACT
+ContactLet's work together. If you're working on complex problems and want design that starts with customers and helps shape where the product goes next, I'd love to talk. I'm open to senior and lead product design roles, as well as product strategy and strategic design roles. jessicaferian@gmail.comCopy LinkedIn ↗ Download CV ↓
 
-CASE STUDY: AI Photo Enhancement. Designing trust, review and recovery around an AI feature, so dealers stay in control of what they publish.
-Role: Product Designer, owned the gallery redesign, review and approval flow, and recovery model
-Team: Product Manager, engineering (Web and iOS), other teams sharing the gallery, input from Eagers
-Status: In build, pilot planned for mid-January 2027
-Key numbers: 42 of 320 (Eagers dealerships use a professional photographer); 0 (AI-altered photos published without dealer approval); Web + iOS (one review and recovery model across both)
-The challenge:
-Photos sell cars, but dealer photos are inconsistent. Only 42 of Eagers' 320 dealerships use a professional photographer. Cars often sit dirty in holding yards, which slows how quickly they can be listed. Large dealer groups were starting to look at third-party AI tools.
-AI enhancement could fix much of this: clean backgrounds, remove dirt and signage, improve lighting. But it brings a real risk. A car photo isn't just marketing. It's a record of the vehicle's condition. If AI hides a scratch or invents a detail, the dealer is responsible for that, not the AI.
-The brief started as "dealer photos look bad". Before designing, I split it into three separate problems and moved missing angles into its own workstream (see Missing angles below).
-So the design problem wasn't "how do we add an Enhance button". It was how to let dealers use AI with confidence, while making sure a person always checks and approves what gets published.
-What dealers told us:
-Early conversations with Eagers shaped the boundaries:
-- They were comfortable with background replacement, removing dirt and signage, and better lighting.
-- They were not comfortable with AI writing descriptions. One example was a model variant the AI suggested that was never sold in Australia.
-- They were nervous that AI-generated angles could misrepresent a car's condition.
-- They found labelling every edited photo cumbersome.
-This set the line clearly: AI can improve how a photo looks, but never change what the car is.
-Key decisions:
-- Redesign the gallery, not just add to it. The gallery had an old look and feel and limited functionality. Instead of bolting enhancement onto it, I used the project to redesign it, so enhancement sits where dealers already manage photos. Other teams used the same gallery, so I worked with them to make sure the new version could be reused across their products too.
-- Nothing AI-altered publishes automatically. Every enhanced photo needs dealer approval first. The original is always kept and can be restored, even after publishing.
-- Change the flow from "preview and approve" to "inspect and confirm". A quick preview encourages a quick yes. I designed the review so dealers compare before and after with a slider (side-by-side as a fallback), review one photo at a time, and confirm the car's condition and features are accurate before approving. If they stop partway, a counter shows how many they've reviewed and approved.
-- Use competitor research to set the review bar. Looking at how competitors handle uncertain results showed that CarCutter flags low-confidence outputs for a person to check. That shaped our review step: every enhanced photo is inspected by the dealer before it can be published.
-- Give approvals their own space. Enhanced photos waiting for review go into an "awaiting approval" section. The gallery needs a save to update a listing, and processing is paid for, so an abandoned result shouldn't be lost.
-- Treat recovery as part of version history. Once dealers could enhance, re-enhance and restore, these actions risked piling up in the gallery. I separated them into a clear model, so dealers know if they're creating a new version, going back to an earlier one, or returning to the original. Restore lives inside version history rather than as a separate gallery action, which also leaves room for more versions later.
-- Make damage preservation non-negotiable. Keeping scratches and dents visible is always on. It isn't a dealer setting, because turning it off would undermine trust in every listing.
-Missing angles:
-Alongside enhancement, I designed how the gallery flags missing photo angles. Rather than copying a step-by-step guided walkthrough from another product, I recommended highlighting what's missing first, based on dealer skill level, photo volume and the yard environment.
-The details that prevent mistakes:
-- Errors are designed by recovery effort. If the dealer has to leave or replace a file, the message stays inline. If a quick retry fixes it, a toast is enough. Building this framework across Web and iOS also caught a real defect where the two platforms showed different causes for the same failure.
-- Failures recover in bulk. A failed photo shows as a failed tile, and "Retry all" works the same way across photo, enhancement and 360 failures.
-- Loading is honest. The AI gives no time estimate, so I used an ambient loading animation instead of a progress bar that would have been fake.
-- 360 spin reuses the same model. Its button stays disabled until at least 4 angles exist.
-- I tested and rejected a modal review, a persistent upload tray, and notifications for v1.
-How I used AI:
-I used Claude throughout this project, and checked everything it produced against our platform, our dealers and engineering.
-- Challenging the brief. I asked Claude to push back on my framing before designing, which helped turn "dealer photos look bad" into three clear problems.
-- Competitor research. Using live sources, it showed how competitors handle uncertain AI results, including CarCutter's low-confidence flags.
-- Correcting a wrong assumption. In an early review flow, Claude assumed damage was marked as a region on the photo. Our system classifies the whole photo, so I corrected it with a screenshot of the real output. It had also left damaged photos out of enhancement. Engineering tests showed enhancement keeps damage visible, so I made those photos enhanceable and added a "check the damage is still visible" step to the review instead.
-Claude got me to first drafts fast. The real output, the engineering tests and dealer input decided the design.
-Impact:
-The feature is in build, with a pilot planned for mid-January 2027. The design sets up a trust model where AI improves how photos look, while the dealer stays responsible for what's published, with a clear path back to the original at any point.
-Reflection:
-I used this project to redesign the gallery itself. It had an old look and feel and limited functionality, and other teams relied on it too. I worked with those teams so the new gallery could be reused across their products, not just for enhancement.
-The hardest part was designing a lot of new functionality before we knew how the backend would support it. How to handle very large photo volumes, how dealers would be charged, and how to show AI confidence were all still open while I was designing. To keep moving, I worked through assumptions with engineering and designed flexible states that could adapt as those answers came in, rather than waiting for every question to be settled.
-Two product decisions are also still open: whether to use one background across all of a car's photos, and whether to allow batch approval once single-photo approval is proven.
 
-CASE STUDY: Inventory List. Bringing three pages into one, so dealers can spot, price and promote stock in one place.
+CASE STUDY: Inventory List (Inventory redesign · Part 1 · Discovery)
+Bringing three pages into one, so dealers can spot, price and promote stock in one place.
+What this shows: Discovery and product direction. Bringing three teams and three products together, then using dealer testing and usage data to decide what one page should do.
 Role: Product Designer, ran the cross-squad workshop, led layout concepts and dealer testing
 Team: Product Manager, engineering, partner squads
 Shipped: National rollout, November 2025
-Key numbers: +55% (List page traffic (2.39M → 3.70M) as work moved into one page); 51 → 206 (leads a week from the Contact Watchers link, at peak); 36% → 61% (share of satisfied dealers, the month after rollout)
-The challenge:
+Key numbers: +55% List page traffic (2.39M → 3.70M) as work moved into one page; 51 → 206 leads a week from the Contact Watchers link, at peak; 36% → 61% share of satisfied dealers, the month after rollout
+
+Business challenge
 Dealers had three separate pages for managing stock: Inventory List, Promote and LiveMarket. Each had its own design and its own data. To spot a car that wasn't selling, reprice it and promote it, a dealer had to move across all three.
 This was slow for dealers and expensive for us. The old system behind these pages was the most expensive one the company ran.
-Process:
+
+Unknowns
+Before designing one page, we had to answer a few questions:
+- Would dealers actually prefer one page, or did separate pages suit how they worked?
+- Which signals matter most when a dealer decides what to do with a car?
+- Could one layout work for dealers with and without a LiveMarket subscription?
+
+Investigation
 In May 2025, I ran a cross-squad workshop to bring the teams behind each page together. From there, I explored three layout concepts. Two went forward, a familiar "Default Page" and an "Insights View", and I tested them with 15 dealers.
-Two findings shaped the direction:
+We also looked at how dealers already used the list. For example, 63% of users already sorted by age.
+
+Key insights
 - Dealers backed a single page over separate ones.
-- Real-time market insights were unanimously the most valued addition, and the default view felt familiar enough to adopt without retraining.
-Key decisions:
-- One page instead of three. The concept test backed bringing list, pricing insight and promotion together. Dealers could now act on a car without leaving the page.
-- Show signals, not just data. Each row shows market %, publishing age, stock age and health score together, so dealers can see which cars need attention at a glance. Sorting by last price change was added because dealers asked for it.
-- Keep LiveMarket insight close, but clearly separate. LiveMarket data sits in the same row as the rest, so dealers see it in context. But it's visually set apart so it reads as extra insight, and it can be hidden for dealers who don't subscribe to LiveMarket. The same layout works for every dealer.
-- Put buying where the decision happens. The Promote cart sits inside the list, so a dealer can promote a car the moment they decide to.
-- Connect dealers with interested buyers. I designed a Contact Watchers link in the list, so dealers can reach buyers who are watching a car directly from the row.
-- Don't show actions people can't complete. The Promote button is hidden for users without permission. Before, they could add to cart and then hit a wall at checkout.
-- Cut what dealers don't use. Bulk edit was removed. Few people used it, and dealers whose stock is managed by their dealer system barely touched it. Single-item quick edit drew strong interest, so that's what we kept.
-- Let the data set the default. The default sort changed from Make Z–A to Age (oldest first). 63% of users already chose age sorting, and Make Z–A wasn't in the top six. The data was clear enough that we made the change without extra research.
-- Replace Print with Export, with a limit. Export is more useful for how dealers work today. The risk was that a full stock list could be shared with competitors, so export only includes the cars loaded on the page, not the whole inventory.
-Impact:
+- Real-time market insights were unanimously the most valued addition.
+- Familiar beats new. The default view felt familiar enough to adopt without retraining.
+- Usage told us what to cut. Few people used bulk edit, while single-item quick edit drew strong interest.
+
+Strategic opportunity
+One page was a chance to do more than tidy up:
+- Lower running cost. Moving off the old system behind these pages, the most expensive one the company ran.
+- Insight next to action. With pricing insight and Promote in the same row, a dealer could act the moment they decided.
+- A path to interested buyers. Showing watchers in the list, with a way to contact them, gave dealers a direct route to people already interested in a car.
+
+Decisions and tradeoffs
+Show signals, not just data. Each row shows market %, publishing age, stock age and health score together, so dealers can see which cars need attention at a glance. Sorting by last price change was added because dealers asked for it.
+Keep LiveMarket close, but clearly separate. LiveMarket data sits in the same row, so dealers see it in context. It's visually set apart so it reads as extra insight, and it can be hidden for dealers who don't subscribe. The tradeoff was a busier row, but one layout works for every dealer.
+Put buying where the decision happens. The Promote cart sits inside the list, so a dealer can promote a car the moment they decide to.
+Don't show actions people can't complete. The Promote button is hidden for users without permission. Before, they could add to cart and then hit a wall at checkout.
+Cut what dealers don't use. Bulk edit was removed. Dealers whose stock is managed by their dealer system barely touched it. Single-item quick edit is what we kept.
+Let the data set the default. The default sort changed from Make Z–A to Age (oldest first). 63% of users already chose age sorting, and Make Z–A wasn't in the top six. The data was clear enough to make the change without extra research.
+Replace Print with Export, with a limit. Export suits how dealers work today. The risk was a full stock list being shared with competitors, so export only includes the cars loaded on the page.
+
+Solution
+One list where each row shows a car's signals, its LiveMarket insight and the actions a dealer can take, including a Contact Watchers link I designed so dealers can reach watching buyers straight from the row.
+
+Outcomes and learning
 - Activity moved into one page. List page traffic rose 55% (2.39M → 3.70M). Promote page traffic fell 36% and LiveMarket fell 19%, as expected, since that work now happens in the list.
 - More leads for dealers. The Contact Watchers link lifted leads from 51 a week to 206 at peak (+303%), with 709 leads over 4 weeks, worth an estimated $47–57K.
 - Satisfaction recovered after launch issues. Inventory CSAT dipped to 2.76 in November 2025, the rollout month, mostly because of bugs (around 70% of the dip). As we fixed them, it recovered to 3.61 the following month, and the share of satisfied dealers rose from 36% to 61%.
 Quote: Dealers in concept testing unanimously named real-time market insights as the best addition. (Concept test findings)
-Reflection:
-The hardest part was making so much information scannable at a glance. I was combining three products, inventory, Promote and LiveMarket, into a single list, and every row had to stay easy to read.
-LiveMarket was the trickiest. Its data had to sit in the same context as everything else, but be easy to recognise as extra insight, and be hidden for dealers who don't subscribe. Getting that balance right meant one design could serve every dealer.
-What I'd do differently is push for a longer pilot before the national rollout. Around 70% of the satisfaction dip after launch came from bugs, and more time with a smaller group of dealers would likely have caught many of them first.
+The hardest part was making so much information scannable. Every row had to stay easy to read while combining three products. LiveMarket was the trickiest: in context, easy to recognise as extra insight, and hidden for dealers who don't subscribe.
+What I'd do differently is push for a longer pilot before the national rollout. Around 70% of the satisfaction dip came from bugs, and more time with a smaller group of dealers would likely have caught many of them first.
 
-CASE STUDY: Inventory Details. Redesigning the vehicle details page so dealers can see what's happening with a car and act on it in one place.
+
+CASE STUDY: Inventory Details (Inventory redesign · Part 2 · Research)
+Redesigning the vehicle details page so dealers can see what's happening with a car and act on it in one place.
+What this shows: Research-led structure and complex data. Using a card sort to decide what the page leads with, and fixing a status model without breaking more than 50 integrations.
 Role: Product Designer: research (card sort and concept test), page layout, editing panel and status model
 Team: Product Manager, engineering
 Shipped: Pilot with 6 dealers in February 2026, national rollout March 2026
-Key numbers: 29% → 61% (share of satisfied dealers in the two months after rollout); 8 dealers (card sort across cars, trucks, farm machinery, caravans and bikes); 50+ (dealer-system feeds kept working with the new status model)
-The challenge:
+Key numbers: 29% → 61% share of satisfied dealers in the two months after rollout; 8 dealers card sort across cars, trucks, farm machinery, caravans and bikes; 50+ dealer-system feeds kept working with the new status model
+
+Business challenge
 A vehicle's details, its Promote products and its LiveMarket pricing all lived on separate pages. Dealers couldn't see cause and effect, such as whether a price change or a new photo actually led to more views and leads.
 Editing was also scattered. Changing a listing sent dealers off to separate pages and back again.
-We were also doing this with a much smaller team. Capacity fell 53% year on year (17 to 8 people), so every decision had to earn its place.
-Research:
+We were doing this with a much smaller team. Capacity fell 53% year on year (17 to 8 people), so every decision had to earn its place.
+
+Unknowns
+- What do dealers actually need on this page, and what can be smaller or only appear when it's relevant?
+- How do we untangle vehicle status, which mixed two different ideas, without breaking the dealer-system feeds that depend on it?
+
+Investigation
 In mid-2025, I ran a card sort and a concept test with 8 dealers across cars, trucks, farm machinery, caravans and bikes. The card sort asked dealers what they actually needed on the page:
 - Title, Health and Manage Publishing: 8 of 8 dealers
 - LiveMarket pricing: 6 of 8
 - Promote: 4 of 8
 - Timeline: 2 of 8
-This told us what to lead with and what could be smaller or conditional. It also showed that dealers split the page naturally into two kinds of information: what they need to know about a car, and what they need to do with it.
-Key decisions:
-- Context on the left, actions on the right. This came straight from the card sort. Health, Manage Publishing and Item History sit top-right, where dealers act. Vehicle information sits on the left, where they read.
-- Show Promote only when it's relevant. Only half the dealers included Promote. Instead of giving it a large fixed section, it's simplified and appears when it's useful.
-- Make health lead to a fix. Earlier, the health score just showed a number. Now each alert links straight to the field that needs fixing, so dealers can act right away.
-- Edit in a side panel, not on separate pages. Editing opens in a wider, two-column, tabbed side panel. Dealers keep the context of the page and don't lose their place.
-- Help dealers move around a long page. I added jump-to navigation as a dropdown in a thin strip between the tabs and the warning banner. I tested pills, a side rail and plain links, but they either took too much space or got lost.
-The hardest decision: the status model:
-A vehicle's status mixed two different ideas. "For Auction", for example, described both what kind of listing it was and how it would be sold. This caused confusing combinations. I worked through four options:
-- Option A: Keep a flat list of values like "For Auction". Rejected because it kept the two ideas mixed up.
-- Option B: Fully split into separate fields. Rejected because it would break more than 50 dealer-system feeds.
-- Option C: Group the labels only. Rejected because it still left the stage unclear.
-- Option D: Three fields (Listing Type, Stage, Purchase Type) behind an API that still accepts the old format. Chosen.
-With Option D, the Stage a dealer picks controls which Purchase Types they can see. Invalid combinations can't happen, because the design prevents them rather than showing an error afterwards. And because the API still accepts the old format, none of the dealer-system feeds broke.
-Impact:
+For the status model, I worked through four options with the trade-offs of each (see Decisions below).
+
+Key insights
+- Dealers split the page into two kinds of information: what they need to know about a car, and what they need to do with it.
+- Not everything deserves a fixed spot. Only half the dealers included Promote.
+- A score isn't a next step. The health score showed a number, but didn't help dealers fix anything.
+- Status mixed two ideas. "For Auction", for example, described both the kind of listing and how it would be sold, which caused confusing combinations.
+
+Strategic opportunity
+- Cause and effect in one place. Bringing details, Promote and LiveMarket together was a step towards dealers seeing whether a change led to more views and leads.
+- Focus for a smaller team. The research showed what to lead with and what to simplify, which mattered with half the capacity.
+- Protect the integrations. More than 50 dealer-system feeds depended on the status field, so fixing it safely protected those relationships.
+
+Decisions and tradeoffs
+Context on the left, actions on the right. This came straight from the card sort. Health, Manage Publishing and Item History sit top-right, where dealers act. Vehicle information sits on the left, where they read.
+Show Promote only when it's relevant. Instead of a large fixed section, Promote is simplified and appears when it's useful.
+Make health lead to a fix. Each health alert now links straight to the field that needs fixing.
+Edit in a side panel, not on separate pages. Editing opens in a wider, two-column, tabbed side panel, so dealers keep their place on the page.
+Help dealers move around a long page. I added jump-to navigation as a dropdown in a thin strip between the tabs and the warning banner. I tested pills, a side rail and plain links, but they either took too much space or got lost.
+The hardest decision: the status model. I worked through four options:
+Option A: Keep a flat list of values like "For Auction". Rejected because it kept the two ideas mixed up.
+Option B: Fully split into separate fields. Rejected because it would break more than 50 dealer-system feeds.
+Option C: Group the labels only. Rejected because it still left the stage unclear.
+Option D: Three fields (Listing Type, Stage, Purchase Type) behind an API that still accepts the old format. Chosen.
+
+Solution
+A details page with context on the left and actions on the right, editing in a side panel, and a status model where the Stage a dealer picks controls which Purchase Types they can see. Invalid combinations can't happen, because the design prevents them rather than showing an error afterwards. Because the API still accepts the old format, none of the dealer-system feeds broke.
+
+Outcomes and learning
 - Fast rollout. The page went from a 6-dealer pilot to a national rollout in about five weeks.
 - Satisfaction recovered after rollout. Inventory CSAT dipped to 2.41 in March 2026, the rollout month, then rose to 3.48 by May. Over the same two months, the share of satisfied dealers went from 29% to 61%.
 - Positive pilot feedback. Pilot dealers described the page as cleaner and more modern, said updates went through faster, and found it easier to review a listing before it goes live.
 - Follow-up releases. The Add/Edit panel and jump-to navigation have since shipped and have been well received so far.
 Quote: "Looks much better than before and I am finding it easier to find prospect info now." (Dealer, inventory CSAT survey)
-Reflection:
-The hardest part was making the information on Inventory Details feel connected. Performance metrics showed what was happening, while the timeline recorded changes and activity. I wanted to bring those together so dealers could understand performance in the context of what had happened to the vehicle.
-I learned that having useful information on the same page isn't enough. The relationships between it need to be clear. Connecting actions, timing and performance helps dealers interpret the numbers and make more informed decisions.
-If I approached this again, I would explore those connections earlier and test them around specific dealer questions, such as "What changed after I adjusted the price?" This would help validate whether the page supports their reasoning and next steps.
+I learnt that having useful information on the same page isn't enough. The relationships between it need to be clear. Performance metrics showed what was happening, and the timeline recorded what had changed, but dealers need the two connected to understand the numbers.
+Next time, I'd explore those connections earlier and test them around specific dealer questions, such as "What changed after I adjusted the price?"
+
+
+CASE STUDY: Automation Rules (Distribution automation · Systems)
+Turning a support-only process into a self-serve tool, so dealers control where their cars are published.
+What this shows: Systems thinking and operational improvement. Understanding how a rules engine really behaves, then turning it into one simple model dealers can run themselves.
+Role: Product Designer, owned the rule builder UX
+Team: Product Manager, tech lead, engineering, co-designed with Eagers
+Shipped: V2.0 national release, February 2026
+Key numbers: 102 → 228 dealers using rules (+124%); 344 rules created; 1,300+ hrs of manual setup removed (about 4 hours per rule)
+
+Business challenge
+Dealers on Nexgate publish their cars to multiple destinations. But some cars can't appear on some destinations. Manufacturer (OEM) rules can bring penalties if a car shows up in the wrong place.
+The only safe option was to hold cars back entirely. About 20,000 listings were kept out of Nexgate for this reason. When a dealer did need a rule, it went from the dealer to our support team to engineering and back. Each rule took around 4 hours.
+
+Unknowns
+- How did the rules engine actually decide what to publish, and could that logic be explained to dealers?
+- Could non-technical dealer staff set up rules on their own, without support?
+- How do we handle real exceptions, like restricting a model but allowing one badge, without making the builder too complex?
+
+Investigation
+- Mapped the logic first. I worked closely with the tech lead to map how the rules engine really behaved, before designing any screens.
+- Used real rules. I co-designed the builder with Eagers using their actual rules, not made-up examples.
+- Prototyped the hardest case. I built four React prototypes to test Make → Model → Badge exceptions.
+- Compared formats. I tested a sentence builder, a wizard and condition blocks.
+
+Key insights
+- The backend already had the simplest model. It published everything and removed what matched a rule. So dealers only needed to define what shouldn't go out.
+- Full nesting was too much. A nested AND/OR builder tested badly with non-technical users.
+- Exceptions happen at every level. Dealers needed rules like "restrict all Corollas except the ZR".
+
+Strategic opportunity
+Self-serve rules could solve three problems at once:
+- Hidden stock. About 20,000 listings were held out of Nexgate because dealers had no safe way to exclude some destinations.
+- Support load. Every rule needed support and engineering, at around 4 hours each.
+- Winning back a major customer. Eagers, a group with 320 dealerships, was paying about $36K a year for a third-party publishing tool. Self-serve rules gave us a way to win that business back.
+
+Decisions and tradeoffs
+Everything publishes by default. Rules hold back the exceptions. We considered an approval-first model, where nothing publishes until a dealer allows it. I pushed for the opposite because it matched how the backend already worked and gave dealers a simple mental model.
+Test the engine before building the interface. Phase 1 was backend-only. We proved the rules engine worked before investing in a self-serve UI.
+Make it clear who's in charge. A manual publish always overrides automation, so dealers never feel the system is working against them. OEM rules are managed centrally because of the legal risk, which means less dealer control there, on purpose.
+Solve Make → Model → Badge without full nesting. I rejected locking the parent make, separate blocks per make, and full nesting, because each one either blocked real cases or became too complex. The final design keeps the cascade only for picking values and adds an "is not" option at each level.
+Simple now, more power later. I chose condition blocks over a sentence builder and a wizard. The fully nested AND/OR builder was left out of v1, trading some flexibility for a builder non-technical users could actually use.
+
+Solution
+A rule builder made of condition blocks, with clear rule states and a review step before saving. A rule shows as Active, or Paused if its destination becomes inactive, so dealers aren't left guessing. Small details matter because a wrong rule can hide stock or break OEM rules:
+- Validation runs at the right moments: when a field loses focus, when a new condition is added, and on save. It doesn't nag while the dealer is still typing.
+- Load failures have their own error state with Retry. If they fell through to the empty state, a dealer might recreate a rule that already exists.
+- Closing with unsaved changes keeps the work. Only "Discard" clears it.
+- The review screen mixes symbols and words. Symbols for comparisons (&gt;, &lt;), words for AND, OR and "is any of". This reads more clearly and works better with screen readers.
+
+Outcomes and learning
+- Dealers using rules grew from 102 to 228 (+124%).
+- 344 rules created, removing an estimated 1,300+ hours of manual setup (at about 4 hours per rule).
+- Eagers is expanding rules to more dealerships, and the work is helping win them back from a competitor.
+Quote: Eagers found it "super easy to use compared to the other solutions out there." (Relayed by our account team)
+The hardest part wasn't the interface. It was the logic underneath. The more I worked with engineering, the clearer the experience became: the backend model turned into the simplest rule for dealers.
+What I'd do differently is test with a wider range of dealers. Eagers is a large group, and smaller dealers may set up rules in different ways.
+
+
+CASE STUDY: AI Photo Enhancement (Emerging tech · Responsible AI)
+Designing trust, review and recovery around an AI feature, so dealers stay in control of what they publish.
+What this shows: Emerging technology and trust. Deciding where AI should and shouldn't act, and designing review and recovery so a person stays responsible for what's published.
+Role: Product Designer, owned the gallery redesign, review and approval flow, and recovery model
+Team: Product Manager, engineering (Web and iOS), other teams sharing the gallery, input from Eagers
+Status: In build, pilot planned for mid-January 2027
+Key numbers: 42 of 320 Eagers dealerships use a professional photographer; Approval first design rule: no AI-altered photo publishes without dealer approval; Web + iOS one review and recovery model across both
+
+Business challenge
+Photos sell cars, but dealer photos are inconsistent. Only 42 of Eagers' 320 dealerships use a professional photographer. Cars often sit dirty in holding yards, which slows how quickly they can be listed. Large dealer groups were starting to look at third-party AI tools.
+AI enhancement could fix much of this: clean backgrounds, remove dirt and signage, improve lighting. But a car photo isn't just marketing. It's a record of the vehicle's condition. If AI hides a scratch or invents a detail, the dealer is responsible for that, not the AI.
+
+Unknowns
+Much of this had to be designed before the answers existed:
+- Where would dealers draw the line on what AI is allowed to change?
+- How would the backend handle very large photo volumes?
+- How would dealers be charged for processing?
+- How should we show AI confidence?
+Rather than wait, I worked through assumptions with engineering and designed flexible states that could adapt as answers came in.
+
+Investigation
+- Reframed the brief. It started as "dealer photos look bad". Before designing, I split it into three separate problems and moved missing angles into its own workstream.
+- Talked to dealers. Early conversations with Eagers about what they would and wouldn't accept from AI.
+- Looked at competitors. How other tools handle uncertain AI results.
+- Checked with engineering. Engineering tests on whether enhancement keeps damage visible.
+
+Key insights
+- Dealers were comfortable with cosmetic changes: background replacement, removing dirt and signage, and better lighting.
+- They didn't trust AI with facts. They didn't want AI writing descriptions. One example was a model variant the AI suggested that was never sold in Australia.
+- Generated angles felt risky. Dealers were nervous AI-generated angles could misrepresent a car's condition.
+- Labelling every edited photo felt cumbersome to them.
+- Competitors keep a person in the loop. CarCutter flags low-confidence outputs for a person to check.
+- Enhancement keeps damage visible. Engineering tests showed this, which changed how damaged photos could be handled.
+Together these set a clear line: AI can improve how a photo looks, but never change what the car is.
+
+Strategic opportunity
+- Faster to list. Better photos without waiting for a clean car or a photographer.
+- Keeping large groups on the platform. They were already looking at third-party AI tools.
+- A better gallery for everyone. The gallery was old and other teams relied on it, so redesigning it could help their products too.
+
+Decisions and tradeoffs
+Redesign the gallery, not just add to it. Instead of bolting enhancement onto an old gallery, I used the project to redesign it, so enhancement sits where dealers already manage photos. I worked with the other teams that share it so the new version could be reused across their products.
+Nothing AI-altered publishes automatically. Every enhanced photo needs dealer approval first. The original is always kept and can be restored, even after publishing. This adds a step for dealers, on purpose.
+Change "preview and approve" to "inspect and confirm". A quick preview encourages a quick yes. Dealers compare before and after with a slider (side-by-side as a fallback), review one photo at a time, and confirm the car's condition and features are accurate before approving. A counter shows progress if they stop partway.
+Give approvals their own space. Enhanced photos waiting for review go into an "awaiting approval" section. The gallery needs a save to update a listing, and processing is paid for, so an abandoned result shouldn't be lost.
+Treat recovery as part of version history. Enhance, re-enhance and restore risked piling up in the gallery. I separated them into a clear model, so dealers know if they're creating a new version, going back to an earlier one, or returning to the original.
+Make damage preservation non-negotiable. Keeping scratches and dents visible is always on. It isn't a dealer setting, because turning it off would undermine trust in every listing.
+Highlight what's missing, instead of a guided walkthrough. For missing photo angles, I recommended highlighting what's missing first rather than copying a step-by-step walkthrough from another product, based on dealer skill level, photo volume and the yard environment.
+Leave some ideas out of v1. I tested and rejected a modal review, a persistent upload tray and notifications for v1.
+
+Solution
+A redesigned gallery where enhancement, review, approval and recovery sit together, with one model across Web and iOS.
+- Errors are designed by recovery effort. If the dealer has to leave or replace a file, the message stays inline. If a quick retry fixes it, a toast is enough. Building this across Web and iOS also caught a real defect where the two platforms showed different causes for the same failure.
+- Failures recover in bulk. A failed photo shows as a failed tile, and "Retry all" works the same way across photo, enhancement and 360 failures.
+- Loading is honest. The AI gives no time estimate, so I used an ambient loading animation instead of a fake progress bar.
+- 360 spin reuses the same model. Its button stays disabled until at least 4 angles exist.
+
+How I used AI
+I used Claude throughout this project, and checked everything it produced against our platform, our dealers and engineering.
+- Challenging the brief. I asked Claude to push back on my framing before designing, which helped turn "dealer photos look bad" into three clear problems.
+- Competitor research. Using live sources, it showed how competitors handle uncertain AI results, including CarCutter's low-confidence flags.
+- Correcting a wrong assumption. In an early review flow, Claude assumed damage was marked as a region on the photo. Our system classifies the whole photo, so I corrected it with a screenshot of the real output. It had also left damaged photos out of enhancement. Engineering tests showed enhancement keeps damage visible, so I made those photos enhanceable and added a "check the damage is still visible" step to the review instead.
+Claude got me to first drafts fast. The real output, the engineering tests and dealer input decided the design.
+
+Outcomes and learning
+Measured outcomes: none yet. The feature is in build, with a pilot planned for mid-January 2027.
+What the design sets up: a trust model where AI improves how photos look, the dealer stays responsible for what's published, and there's a clear path back to the original at any point.
+Two product decisions are still open: whether to use one background across all of a car's photos, and whether to allow batch approval once single-photo approval is proven.
+What I'm taking from this: you can design well before every answer is known, as long as the states are flexible and the assumptions are shared openly with engineering.
