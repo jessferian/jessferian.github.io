@@ -908,7 +908,7 @@ document.getElementById("copy").addEventListener("click", async (e) => {
 // ---------- Ask-me chat ----------
 // On your own site the chat talks to your Cloudflare Worker. Paste its address below (it ends in /chat).
 // Leave the placeholder in place to keep the chat hidden. Inside Claude, the chat uses Claude directly.
-const CHAT_ENDPOINT = "https://YOUR-WORKER-ADDRESS/chat";
+const CHAT_ENDPOINT = "https://ask-jess.jessicaferian.workers.dev/chat";
 (function(){
   const useWorker = !!CHAT_ENDPOINT && !CHAT_ENDPOINT.includes("YOUR-WORKER");
   const strip = (h) => String(h).replace(/<[^>]+>/g,"").replace(/&gt;/g,">").replace(/&lt;/g,"<").replace(/&amp;/g,"&");
